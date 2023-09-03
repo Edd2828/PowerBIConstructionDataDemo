@@ -1,4 +1,4 @@
-#Construction Data Demo
+# Construction Data Demo
 Repository with full ETL process and final Power BI Visualisation. This looks at US data relating to construction projects. There is a particular focus on project value and individual Client Agencies involved. 
 
 This is sample data only and in no way a reflection of real world projects.
